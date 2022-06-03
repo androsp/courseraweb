@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Coursera web
 
 You can use the [editor on GitHub](https://github.com/androsp/courseraweb/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
